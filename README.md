@@ -2,11 +2,8 @@
 
 🚀 **Level Up Your Travian Game!** 🏰
 ⚔️ **Dominate the Map with Advanced Automation** ⚔️
-🌟 **The Most Powerful Travian Bot Available** 🌟
 
 ![Farm List Management](docs/images/farm_list_config.png)
-
-*Experience the power of full automation with our advanced Travian Legends bot*
 
 An automated bot for Travian Legends that handles farming and oasis raiding operations.
 
