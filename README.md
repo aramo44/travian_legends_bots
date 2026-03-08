@@ -1,3 +1,7 @@
+DISCLAIMER : it worked in mid 2025, if Travian has changed tons of things in between it won't work.
+Also, it was tested on a classic server (three races, Roman Gaul Teuton). It will probably need smoothing out if there are Egyptians or whatever extra new things of specific travian servers. This was done on an 1X server. I coded it as best as I could to remain general and easily adapt to other types of servers out there, but there may still be kinks to even out. 
+
+
 # Travian Legends Bot
 
 🚀 **Level Up Your Travian Game!** 🏰
