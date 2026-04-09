@@ -1,3 +1,0 @@
-"""
-Oasis raiding functionality.
-""" 
