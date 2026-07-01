@@ -4,7 +4,14 @@
 
 # New option for Manual Coordinate Raider
 if option == 12:
-    manual_coordinate_raider()  # Assumed function name for Manual Coordinate Raider
-    print("Manual Coordinate Raider selected.")
+    try:
+        manual_coordinate_raider()
+    except NameError:
+        print("Error: Manual Coordinate Raider is not yet implemented. "
+              "Ensure the function is defined and imported before using this option.")
+    except Exception as e:
+        print(f"Error running Manual Coordinate Raider: {e}")
+    else:
+        print("Manual Coordinate Raider selected.")
 
 # Existing code continues...
